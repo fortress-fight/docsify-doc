@@ -11,4 +11,12 @@
     -   [文件帮助](/docs/level2/Helpers)
     -   [文件嵌入](/docs/level2/EmbedFiles)
 
+-   插件
+
+    -   [常用插件](/docs/level3/Plugins)
+
+-   其它
+
+    -   [常用配置](/docs/baseConfig/baseConfig)
+
 -   [awesome-docsify](https://github.com/docsifyjs/awesome-docsify/blob/master/README.md)
